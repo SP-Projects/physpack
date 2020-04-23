@@ -1,0 +1,13 @@
+This is a list of things and functions to make. I'll add stuff as I think of it
+
+Astro Module, including:
+	- Black body radiation equation (for solving for T)
+
+Generic Module, including:
+	- Gaussian fit
+	- Poissonian fit
+	- Binomial stuff
+
+Statistics Module
+
+	
